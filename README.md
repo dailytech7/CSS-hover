@@ -1,2 +1,2 @@
 # CSS-hover
-Hover effect!
+Hover effect for buttons!
